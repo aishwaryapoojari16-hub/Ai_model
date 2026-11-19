@@ -24,6 +24,20 @@ requirements.txt
 5. Statistics: descriptive table, correlation heatmap, mutual-information feature selection
 6. Model development: baseline vs Logistic Regression, KNN, Decision Tree, Random Forest, Gradient Boosting, SVM; repeated stratified CV; grid-search tuning; hold-out evaluation; permutation importance
 
+## 📁 Project Structure
+
+```
+Ai_model/
+├── data/               # Datasets used for training/testing
+├── models/             # Saved model files
+├── notebooks/          # Jupyter notebooks
+├── src/
+│   ├── train.py        # Model training script
+│   └── predict.py      # Inference script
+├── requirements.txt    # Python dependencies
+└── README.md           # Project documentation
+```
+
 ## Run it
 ```bash
 pip install -r requirements.txt
