@@ -1,0 +1,23 @@
+feature,MI
+view_Depends on how people use it,0.10857154446675302
+view_Beneficial,0.10533038906432036
+preference_A world with AI that makes life easier but increases dependence on technology,0.07238936097316251
+view_Both,0.06335379972671804
+productivity_enc,0.06002982104872375
+education_Mostly creates problems,0.05601920331912717
+preference_Balanced approach using AI with human control,0.053642350294930405
+view_Harmful,0.0531334166904818
+familiarity_enc,0.0490550930250717
+frequency_enc,0.04640742769438158
+education_Mostly makes education better,0.04542359975560391
+education_Both equally,0.044745204050610846
+preference_Less AI more human involvement,0.028483916340853163
+privacy_concern_enc,0.01964032285000554
+education_Not sure,0.015793770880887903
+negative_impact_Privacy and data security concerns,0.014234957337375523
+negative_impact_Job displacement,0.011791344071222148
+negative_impact_Misinformation and fake content,0.010117052705058242
+positive_impact_Improves creativity and idea generation,0.009972015992254862
+positive_impact_Makes work and tasks easier and faster,0.008842805693957123
+negative_impact_Reduced human creativity,0.0023535158870362505
+positive_impact_Helps in solving complex problems,0.0011004189840616158

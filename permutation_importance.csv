@@ -1,0 +1,10 @@
+feature,importance,sd
+view,0.1748,0.0734
+preference,0.1093,0.0595
+education,0.0799,0.0456
+familiarity_enc,0.0239,0.0294
+privacy_concern_enc,-0.01,0.0329
+frequency_enc,-0.0266,0.0151
+productivity_enc,-0.0463,0.0411
+negative_impact,-0.048,0.0413
+positive_impact,-0.055,0.0465

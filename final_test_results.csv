@@ -1,0 +1,4 @@
+model,test_accuracy,test_macro_f1
+Logistic Regression,0.571,0.5
+Random Forest,0.464,0.42
+Baseline (majority),0.536,0.174

@@ -1,0 +1,8 @@
+model,cv_accuracy,acc_sd,cv_macro_f1,f1_sd
+KNN (k=7),0.564,0.049,0.362,0.096
+Baseline (majority),0.518,0.022,0.171,0.005
+Gradient Boosting,0.509,0.09,0.366,0.111
+Random Forest,0.491,0.09,0.394,0.094
+SVM (RBF),0.461,0.107,0.375,0.101
+Decision Tree (depth 4),0.415,0.112,0.368,0.086
+Logistic Regression,0.379,0.108,0.321,0.085

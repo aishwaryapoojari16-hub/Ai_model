@@ -1,0 +1,5 @@
+,Familiarity,Frequency,Productivity,Privacy
+Familiarity,1.0,0.282,0.038,0.023
+Frequency,0.282,1.0,0.173,0.25
+Productivity,0.038,0.173,1.0,0.216
+Privacy,0.023,0.25,0.216,1.0
